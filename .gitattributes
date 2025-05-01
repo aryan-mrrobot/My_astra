@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+THEX/Archive.zip filter=lfs diff=lfs merge=lfs -text
+THEX/wordlists/xml.txt filter=lfs diff=lfs merge=lfs -text

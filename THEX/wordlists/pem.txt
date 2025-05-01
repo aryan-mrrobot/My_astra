@@ -1,18 +1,3 @@
-minikube_test.pem
-minikube.pem
-test_key.pem
-test_rsa_privkey.pem
-test_rsa_privkey_encrypted.pem
-rsakey.pem
-key.pem
-certificate.pem
-private_key.pem
-public_key.pem
-privkey.pem
-dhparams.pem
-ios_push_certificate.pem
-keycert.passwd.pem
-ca1-key.pem
-key-certbot.pem
-key2048.pem
-private.pem
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fe54e2a98701d0f79dea6c346ef595e1823a2ef05907bab948bf9327089eaad
+size 283
