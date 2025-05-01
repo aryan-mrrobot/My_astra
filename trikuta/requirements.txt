@@ -1,0 +1,5 @@
+splinter
+tqdm
+beautifulsoup4
+python-Levenshtein
+fuzzywuzzy

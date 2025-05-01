@@ -1,0 +1,627 @@
+JAN 2023
+
+AN 2023
+
+Targets:
+microsoft
+google
+dji 
+nl sites
+https://mnkgroup.ch/en/responsible-disclosure
+
+https://www.dogado.de/faq/artikel/bug-bounty-program/
+https://blinkit.com/bug-bounty
+https://www.dzbank.de/content/dzbank/en/home/footernavigation/guidelines-and-information/bug-bounty-program.html 
+https://en.easybell.de/company/bug-bounty/ - not much funcc
+https://www.doctolib.de/gesundheit/bug-bounty-program/
+https://www.komoot.de/security/bug-bounty
+https://tripactions.com/bug-bounty - harder
+https://www.liquidweb.com/about-us/policies/bug-bounty-program/
+https://www.government.nl/topics/cybercrime/fighting-cybercrime-in-the-netherlands/responsible-disclosure - no bounty
+https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/ - policy read
+https://www.aquasec.com/trust/security/responsible-disclosure-program/ 
+https://www.deskpro.com/security/responsible-disclosure - retest
+https://kfc.responsibledisclosure.com/hc/en-us - HOF
+https://www.mollie.com/responsible-disclosure - restest
+https://www.mmhmm.app/legal/responsible-disclosure-and-bug-bounty-policy 
+
+https://www.inholland.nl/inhollandcom/responsible-disclosure/#Wall_of_Fame  - H0f
+https://www.24sessions.com/responsible-disclosure
+https://greenhost.net/contact/responsible-disclosure/
+https://www.evri.com/responsible-disclosure-policy    - h0f
+https://bitvavo.com/en/responsible-disclosure  
+https://www.sky.com/help/articles/responsible-disclosure - no boutny
+https://www.mailercheck.com/legal/responsible-disclosure-program
+https://help.crunch.co.uk/s/article/Responsible-Disclosure - hof
+https://www.zscaler.com/security/vulnerability-disclosure-program?_bt=&_bk=&_bm=&_bn=x&_bg=&utm_source=google&utm_medium=cpc&utm_campaign=google-ads-na&gclid=CjwKCAiA76-dBhByEiwAA0_s9f4TPqPip9x4u-OkzV2f6A28yUYSEPqK791dE85U1hbOrUuFBXmIuRoC7HwQAvD_BwE -bc
+https://www.skipsolabs.com/en/page/skipsolabs-responsible-disclosure-en -hof
+https://vwo.com/security/responsible-disclosure-policy/ -hof
+
+https://www.volkis.com.au/vulnerability-disclosure/
+https://www.westpac.com.au/security/how-to-report/responsible-disclosure/
+https://www.kayak.com.au/security
+https://kontur-inc.com/bugbounty
+https://www.swisscom.ch/en/about/security/bug-bounty.html
+https://www.vtiger.com/security-center/bug-bounty/
+https://www.gofrugal.com/bugbounty/
+https://www.admybrand.com/bugbounty
+https://www.sigmacomputing.com/product/vdp
+https://www.telekom.com/en/company/data-privacy-and-security/news/closing-security-gaps-360054
+https://open.money/responsible-disclosure-policy
+https://www.securitas.com/en/about-us/responsible-disclosure/
+https://www.acceptmission.com/security/responsible-disclosure-policy/
+https://www.lojistic.com/responsible-bug-disclosure
+https://www.designware.io/responsible-disclosure
+https://www.jcpenney.com/m/responsible-disclosure-program  - pending
+https://myaccount.satenav.com.au/responsible-disclosure?sv=638078729497594392_qLW%2FH3UMHw0kzCJVLTL1li4%2FIkV%2FMJ8VXBSVf7fyaOw%3D
+https://mnkgroup.ch/en/responsible-disclosure
+https://www.niagahoster.co.id/responsible-disclosure-policy - nice
+https://www.dash.org/bugbounty/
+https://help.pythonanywhere.com/pages/BugBounty/  - nice
+
+https://tilda.cc/ru/lp/bugbounty/
+https://www.buckaroo.nl/media/3188/responsible-disclosure-policy-eng.pdf
+https://bitonic.nl/en/responsible-disclosure
+https://websec.nl/responsible-disclosure
+https://www.superflora.nl/en/responsible-disclosure
+https://www.motiv.nl/motiv-ict-security/coordinated-vulnerability-disclosure/
+https://www.keycycle.nl/responsible-disclosure-policy
+https://www.nfir.nl/en/responsible-disclosure/
+https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure - Cert
+https://www.knaw.nl/en/responsible-disclosure-policy
+https://mediamasters.nl/responsible-disclosure/
+https://www.mycoa.nl/en/content/reporting-vulnerability-ict-system-responsable-disclosure
+https://www.ov-chipkaart.nl/service-and-contact/responsible-disclosure-policy.htm
+https://305.nl/en/terms-and-conditions/security/ - Cert
+https://www.conclusion.nl/kleine-lettertjes/coordinated-vulnerability-disclosure
+https://mett.nl/en/our-compliancy/coordinated-vulnerability-disclosure/
+https://www.securityacademy.nl/responsible-disclosure/
+https://english.ajax.nl/more/disclosure-policy/
+https://www.quooker.nl/security
+https://www.amsterdam.nl/en/general-items/items-footer/privacy-city-of-amsterdam/information-security/
+https://ziekenhuisamstelland.nl/nl/over-ziekenhuis-amstelland/data-and-system-security/
+https://www.tempo-team.nl/werknemers/contact/report-the-security-problem
+https://www.chipsoft.nl/responsibledisclosure-en
+https://www.knb.nl/english/responsible-disclosure
+https://www.bevolkingsonderzoeknederland.nl/en/responsible-disclosure/
+https://www.vpro.nl/over-de-vpro/responsible-disclosure.html
+https://easysoftwaredeployment.nl/en/coordinated-vulnerability-disclosure/
+https://axxemble.nl/responsible-disclosure/
+https://www.weekvandemediawijsheid.nl/responsibledisclosure-en/
+https://www.securify.nl/blog/responsible-disclosure-or-concealed-bug-report/
+https://www.kadaster.nl/about-us/legal-disclaimer/responsible-disclosure
+https://english.ncsc.nl/get-to-work/implement-a-cvd-policy/preparing-a-cvd-policy
+https://extranet.uva.nl/en/content/a-z/coordinated-vulnerability-disclosure/coordinated-vulnerability-disclosure.html?cb
+https://www.mediaukkiedagen.nl/responsibledisclosure-en/
+https://www.dnb.nl/en/privacy-and-security/report-vulnerability/
+https://info.studielink.nl/en/about-stichting-studielink/responsible-disclosure-studielink
+https://www.connectie.nl/proclaimer/reporting-vulnerabilities-responsible-disclosure-coordinated-vulnerability-disclosure-cvd
+https://www.svb.nl/en/about-the-svb/how-we-work/reporting-security-vulnerabilities
+https://www.bitsoffreedom.nl/coordinated-vulnerability-disclosure-en/
+https://duthler.nl/en/coordinated-vulnerability-disclosure-cvd-policy/
+https://responsibledisclosure.nl/en/
+https://www.gemeentewestland.nl/privacy/reporting-weak-spots-in-it-systems/
+https://www.tesorion.nl/en/posts/responsible-disclosure/
+https://www.dnwg.nl/responsible-disclosure/responsible-disclosure-en.htm
+https://www.heerde.nl/Inwoners/Contact/Over_deze_website/Coordinated_Vulnerability_Disclosure/Coordinated_Vulnerability_Disclosure_in_English
+https://www.delft.nl/en/official-matters/contacting-city-delft/responsible-disclosure
+https://download.osso.pub/.well-known/security.txt
+https://fouadmaakor.nl/bug-bounty-performance-pressure/
+https://www.pathe.nl/artikel/2793-responsible-disclosure-(en)
+https://www.z-cert.nl/cvd-english/
+https://www.rijnstate.nl/disclaimer/coordinated-vulnerability-disclosure-english/
+https://www.nki.nl/about-us/organisation/disclaimer/coordinated-vulnerability-disclosure/
+https://www.vismacircle.nl/en/responsible-disclosure
+https://www.coa.nl/en/reporting-vulnerability-ict-system-responsable-disclosure
+https://www.denhaag.nl/en/in-the-city/safety/reporting-a-vulnerability-cvd-.htm
+https://www.cio-platform.nl/l/en/library/download/urn:uuid:23494658-bba3-4422-9b96-bb14fa2418af/ciopublicatie2016+ceginfosec+coordinated+vulnerability+disclosure+policy+and+procedure+-+eng+v1.0.pdf?format=save_to_disk
+https://www.studeersnel.nl/nl/document/pius-x-college/pinasas-kaloya/audiense-bounty-program/27416362
+https://www.werkenbijhuisman.nl/disclosure
+https://www.whitehats.nl/en_us/coordinated-vulnerability-disclosure/
+https://www.zwolle.nl/en/report-vulnerability-cvd
+https://over.npo.nl/download/nl/685
+https://legal.nicedaynederland.nl/responsible-disclosure
+https://www.ru.nl/publish/pages/894344/responsible_disclosure.pdf
+https://www.rootnet.nl/responsible-disclosure/
+
+https://www.paddle.com/vulnerability-disclosure-policy
+https://www.clari.com/vulnerability-disclosure-policy/
+https://jumpcloud.com/vulnerability-disclosure-policy
+https://www.nuclino.com/coordinated-vulnerability-disclosure-cvd-policy
+https://www.gevme.com/en/vulnerability-disclosure-policy/
+https://www.taboola.com/policies/vulnerability-disclosure-policy
+https://dome.purevpn.com/vulnerability-disclosure-policy/
+https://hindi.pratilipi.com/vulnerability-disclosure-policy
+https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy
+https://www.humanprotocol.org/vulnerability-disclosure-policy
+https://www.ekincare.com/responsible-disclosure-policy
+https://rechargepayments.com/vulnerability-reporting/
+https://goodglamm.com/responsible-disclosure-policy/
+https://www.lanier.com/en/about-us/vulnerability-disclosure-policy
+https://www.re-cap.com/vulnerability-disclosure
+https://www.activtrak.com/responsible-disclosure-program/
+https://www.gynzy.com/en/responsible-disclosure
+https://psqr.eu/responsible-disclosure-policy/
+https://www.aweber.com/responsible-disclosure.htm
+https://notificare.com/responsible-disclosure/
+https://artifex.com/developers-bug-bounty-program/
+https://www.emburse.com/responsible-disclosure
+https://www.royalihc.com/responsible-disclosure-policy
+https://support.geckoboard.com/en/articles/6055718-report-a-security-vulnerability-and-responsible-disclosure-policies
+https://www.onegini.com/en-us/security/disclosure
+https://swapfiets.com/en/responsible-disclosure
+https://help.dozuki.com/Info/Responsible_Disclosure
+https://www.driven.ca/policies/security
+https://www.amahahealth.com/disclosure-policy/
+https://www.spinae.be/responsible-disclosure-policy/
+https://ringostat.com/ringostat-white-hat-bounty-program/
+https://whitehat.olacabs.com/
+https://enovationgroup.com/int/corporate-governance/information-security/responsible-disclosure/
+https://ledn.io/legal/responsible-disclosure-policy
+https://www.embloom.com/responsible-disclosure-policy/
+https://musonisystem.com/responsible-disclosure/
+https://rhino.fi/security/
+https://www.leanix.net/en/legal/responsible-disclosure-policy
+https://support.celtra.com/vulnerability-disclosure-program
+https://www.circlelytics.com/en/responsible-disclosure/
+https://info.onlinepaymentplatform.com/responsible-disclosure
+https://oxyhotels.com/public/responsible/
+https://kajabi.com/policies/vulnerability-disclosure-program
+https://academyocean.com/white-hat-bounty-program
+https://nedap-healthcare.com/responsible-disclosure/
+https://arrival.com/us/en/legal/security#rewards
+
+"
+https://www.dream11.com/security/rvdp
+https://app.augmentt.com/secure/security-posture
+https://www.sonder.com/security?utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=18471527911
+https://www.onegini.com/en-us/security/disclosure
+https://www.mintos.com/en/report-security-vulnerability/
+https://marvelapp.com/security/bountypolicy
+https://www.re-cap.com
+https://goodglamm.com
+https://www.acceptmission.com/security/responsible-disclosure-policy/
+https://superops.ai/security/responsible-disclosure
+https://veiligheid.avans.nl/publicaties/responsible-disclosure-beleid-copy
+https://mnkgroup.ch/en/responsible-disclosure
+https://www.akto.io/responsible-disclosure
+https://www.pay.nl/en/responsible-disclosure
+https://swapfiets.com/en/responsible-disclosure
+https://notificare.com/responsible-disclosure/
+https://www.litebit.eu/en/responsible-disclosure-policy
+https://www.panopto.com/responsible-disclosure/
+https://on2it.net/responsible-disclosure/
+https://myjohndeere.deere.com/mjd/my/login?TARGET=https:%2F%2Fmyjohndeere.deere.com%2Fmjd%2Fmyauth%2Fdashboard
+https://btcdirect.eu/en-gb/responsible-disclosure
+https://www.splunk.com/en_us/products/infrastructure-monitoring/responsible-vulnerability-disclosure-program.html?301=/en_us/software/infrastructure-monitoring/responsible-vulnerability-disclosure-program.html
+https://www.hemnet.se/mitt_hemnet/session/logga_in?auth_origin=navigation_menu
+https://acconavm.com/responsible-disclosure/
+https://www.jtglobal.com/global/responsible-disclosure/
+https://worldclassworkplace.com/responsible-disclosure-policy/
+https://www.dreamsolution.nl
+https://www.securityacademy.nl/responsible-disclosure/
+"
+
+
+HTTP/1.1 200 OK
+Date: Tue, 27 Dec 2022 17:04:59 GMT
+Content-Type: application/json
+Content-Length: 601
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: ,Authorization,Accept,Origin,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range
+Access-Control-Allow-Methods: GET,POST,OPTIONS,PUT,DELETE,PATCH
+Cache-Control: no-cache
+Expires: Tue, 27 Dec 2022 17:04:58 GMT
+P3P: CP="ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV"
+Via: kong/0.14.1
+X-Gr-Trace-Id: ab182e44-b901-4c8d-802c-502c70203a41
+X-Kong-Proxy-Latency: 2
+X-Kong-Upstream-Latency: 45
+CF-Cache-Status: DYNAMIC
+access-control-allow-origin: *
+Server: cloudflare
+CF-RAY: 7803a373dbf40334-AMD
+
+{
+  "access_token": "bf2d39fe29db30d88604930a7be53e3432456f0844e509bffa8b5668f306ff8d", 
+  "message": "Login Successful", 
+  "referee_benefit": null, 
+  "referral_valid": null, 
+  "scratch_card_data": null, 
+  "success": true, 
+  "user": {
+    "date_now": 1672160699, 
+    "email": "", 
+    "id": 14754384, 
+    "name": "", 
+    "phone": "9521227821", 
+    "verified": true, 
+    "wallet_id": 14550435
+  }, 
+  "user_profile_data": {
+    "cart_count": 0, 
+    "is_first_order_delivered": false, 
+    "is_first_order_placed": false, 
+    "is_undelivered_order_present": false
+  }, 
+  "verified": true
+}
+
+
+
+
+
+  "access_token": "82a694886a0640ce080f662dcc424719f2d7b2826c6a4458ff408f011de9e617", 
+  "message": "Login Successful", 
+  "referee_benefit": null, 
+  "referral_valid": null, 
+  "scratch_card_data": null, 
+  "success": true, 
+  "user": {
+    "date_now": 1672161468, 
+    "email": "", 
+    "id": 14754384, 
+    "name": "", 
+    "phone": "9521227821", 
+    "verified": true, 
+    "wallet_id": 14550435
+  }, 
+  "user_profile_data": {
+    "cart_count": 0, 
+    "is_first_order_delivered": false, 
+    "is_first_order_placed": false, 
+    "is_undelivered_order_present": false
+  }, 
+  "verified": true
+}
+
+https://maps.googleapis.com/maps/api/staticmap?center=40.714728,-73.998672&zoom=12&size=2500x2000&maptype=roadmap&key=AIzaSyBNRtgrXGd_1UfEoXxh3FYREZTxeupYI0k
+
+*******token not expiring after fucking using it bitch
+
+
+ bf2d39fe29db30d88604930a7be53e3432456f0844e509bffa8b5668f306ff8d
+ bf2d39fe29db30d88604930a7be53e3432456f0844e509bffa8b5668f306ff8d
+
+ 
+
+
+https://blinkit.com/mapAPI/autosuggest_google?&query=(input)
+
+
+https://www.easybell.com/email/verification?userId=823&hash=0650b8ad99c1edff327f070e5a09a49f5d248d45
+
+https://www.easybell.com/email/verification?userId=826&hash=9a198167bf7901c5d2f248df8f2858dd7d0c3ad2
+
+https://www.easybell.com/email/verification?userId=826&hash=0650b8ad99c1edff327f070e5a09a49f5d248d45
+
+
+******dji infor disc    https://github.com/DJIQIUQIU/DJI_update_oa_2022/blob/99d6b53a982e11636e800eca54ae92d31f808120/service-oa/src/main/resources/application-prod.yml
+******support portal mmhmm ssrf 
+******dji ssrf 
+******api on mmhmm & blinkit done
+******hyperlink in mmhmm done
+******augment - pssword wala issue 
+****** cors - https://sgtm.bitvavo.com/g/collect?v=2&tid=G-JKE82HL2VJ&gtm=2rebu0&_p=530534614&gcs=G111&gcd=G111&adr=1&cid=807700383.1672260987&ul=en-us&sr=1536x864&ir=1&_rnd=1002849710.1672262108&_eu=EA&_s=3&sid=1672260987&sct=1&seg=1&dl=https%3A%2F%2Faccount.bitvavo.com%2Fconfirm%2F5f9b6f4da8c462f63b4151790a4b6f81601657eb%2F&dt=Bitvavo&en=signup_flow&ep.content_group=onboarding&ep.flow_step_name=confirm_email&ep.referrer=&ep.flow_step_action=submit&epn.flow_step_number=2&richsstsse
+****** 
+
+
+ugeff8zp98cmax3sl8lcj5usvj1apz.burpcollaborator.net
+9aku9nt43n614cx7fnfrdko7pyvqjf.burpcollaborator.net
+907uznj4tnw1ucn75n5r3ke7fylr9g.burpcollaborator.net
+
+https://q7dnvo4drg5r86yw.click.mailersend.net/te/cws/eyJpdiI6ImVSYVVQYzk3dzl1Z0Qvb0UvQ1pMY0E9PSIsInZhbHVlIjoiYnRwMG9aUHo2L2YxQXpDYVNCUFdSeHR0VS9neVFwZ0xWdU1WOHMvK1RMMWtHUWUrajNwQmpJTTEvR1J4U0VyVmwxTk4xZUZCYUY3OHBhNnZRVXdhajF0bEk2eGwvYzFqcHJ0QVRnbU9nU2FvR3M3dFZUTGM2RmV6N1NZYXYvTmRJNVAvd2tsK3Q5SUNPb3BrS3hFZjl2bkNTbHlYOUpGdjVzVmV3cXE3ekhZd1p6SnNPeC9PK2FzQ1JNTm1rYmFoVGFTQy9VV0V6RzhWbUdjOFRLTmNrTTNpMlBDZTdRRE9YTlU1VVlIWkZ6aCtUTklyYnIrK1RSL1psNDRXTlVjOCIsIm1hYyI6IjNjYTQxYzI4ODVlZWQzNjA5MjNkNGEwOWY0MTg5Njc1NzNlNzIzMGEwYzU3ODkwMDNiYTVjNDgwNWQ0ZGVhNzMiLCJ0YWciOiIifQ,,
+
+
+https://www.rain.com/en/email-verification/7nymMyfIpMHj9UoOpGnCm6m29gEyHLmXQJwVUo7Vsfz4Abk=?jur=bvi
+
+
+HTTP/1.1 200 OK
+Date: Wed, 28 Dec 2022 23:59:39 GMT
+Content-Type: application/json; charset=UTF-8
+Connection: close
+CF-Ray: 780e402f2d080333-AMD
+Access-Control-Allow-Origin: https://www.rain.com
+Set-Cookie: session=9ea9127f-246f-4614-86a8-6f594673ea44; path=/; domain=rain.com; expires=Thu, 29 Dec 2022 00:03:26 GMT; httponly; secure; samesite=Lax;
+Vary: Origin, Accept-Encoding
+Via: 1.1 spaces-router (e13668ca8eb7)
+CF-Cache-Status: DYNAMIC
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: default-src 'self' rain.bh *.rain.bh
+Set-Cookie: jurisdiction=bvi; path=/; domain=rain.com; expires=Thu, 29 Dec 2022 00:03:26 GMT; httponly; secure; samesite=Lax;
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: d0cb43ae-3818-0c1f-887c-3d46bd1bfb02
+Server: cloudflare
+Content-Length: 2154
+
+{"id":"0c698789-9f1b-4a98-a941-82caa280a0a4","created":"2022-12-28T23:51:10.600126Z","status":"pending","full_name":"fghjk kkurf ydtk","first_name":"fghjk","middle_name":"kkurf","last_name":"ydtk","email":"vikingracer1111@gmail.com","username":"","email_verified":true,"phone_country_code":91,"phone_number":"8529240054","phone_number_verified":"2022-12-28T23:59:38.507082Z","address_provided":null,"address_skipped":null,"document_provided":null,"document_skipped":null,"bank_account_skipped":null,"bank_account_added":null,"second_factor_auth_type":"phone","second_factor_auth_modified":null,"deposit_completed":null,"currency":"usd","display_currency":"usd","currency_name":"","country":{"code":"ind","phone_country_code":91,"currency":"inr"},"language":"en","user_settings":{"login_email_notification":true,"deposit_confirmed_email_notification":true,"deposit_completed_email_notification":true,"withdraw_confirmed_email_notification":true,"withdraw_completed_email_notification":true,"buy_confirmed_email_notification":true,"buy_completed_email_notification":true,"sell_confirmed_email_notification":true,"sell_completed_email_notification":true,"request_confirmed_email_notification":true,"request_completed_email_notification":true,"send_confirmed_email_notification":true,"receive_confirmed_email_notification":true,"price_alert_email_notification":true,"marketing_email_notification":false,"card_support_feature":true,"knet_support_feature":false,"benefit_support_feature":false,"exchange_feature":false,"chart_feature":true,"referral_feature":false,"payment_processor":"default","deposit_completed_push_notification":true,"withdraw_completed_push_notification":true,"send_confirmed_push_notification":true,"receive_started_push_notification":true,"receive_confirmed_push_notification":false,"price_alert_push_notification":true,"swap_transaction_enabled":false,"exchange_feature_toggle":true,"direct_deposit_feature":false,"signup_version":2},"referred_by":null,"referral_code":"QTU33VU","referral_paid":null,"ip":"103.250.137.120","vip_status":1,"intercom":{"android_hmac":null,"ios_hmac":null},"card_support_enabled":true,"signup_version":2}
+
+
+
+https://mail.kontur.ru/track/click?c=2439&m=63b1fb46773d5421d7ddc300&s=LreYL%2BqSkW6hGrmlRnmweAiv1YcnatoMd9J4Gfro7c8sjvADOXHM%2FheY8norqlbcWP2Dl%2B7hmIF1jgUzwqEKCA%3D%3D&link=http%3A%2F%2Fcabinet.kontur.ru%2Fpages%2Fapi%2Fv1%2Fregistration%2Fkontur.ru%2Fe18b1318-a2cb-4ea5-8643-0c9670365914%2Fconfirm%3Fback%3Dhttps%3A%252F%252Fcabinet.kontur.ru%252F%253Fp%253D1210%2526utm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_startpage%253Dkontur.ru%2526utm_orderpage%253Dkontur.ru%2526login%253Dvikingracer1111%252540gmail.com%26secret%3D125479%26email%3Dvikingracer1111%2540gmail.com
+
+
+i0juo4xmnixp1pnyw4gvyw2cl3rtfi.burpcollaborator.net - bio
+
+tkh58fhx7th0l079gf06i7mn5eb5zu.burpcollaborator.net - home 
+
+
+https://app.acceptmission.com/confirmation?confirmation_token=Tx-R951-1Y47EPtGHv-J
+
+
+**** XSS CVE-2020-3580 - https://vcs-e.cclan.telekom.net/+CSCOE+/saml/sp/acs?tgname=a
+**** EMAIL HTML injection - acceptmission.com
+**** XSS - COMMENT - https://app.acceptmission.com/ideabox/future-of-img-src-x-http-evil-com-7-7/ideas/safer-document-management-with-blockchain-ec621922-9e7a-432e-bd81-572bb3d0c63e/agent_idea_edit#
+**** steve xss https://rmcnclprodlb.ng.telekom.net/steve/services/%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E/services/
+**** travis yaml ci disclosure https://test-academy-on-air.telekom.net/.travis.yml
+**** grafana default cred https://grafana.lab.intelligent.telekom.net/login [username=admin,password=]
+**** SSRF - CVE-2020-10770 - https://login.brand-dialog.telekom.com/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=http://ceq6tab3gud00t0000105bfo6ep19f5r3.oast.me/
+
+
+<iframe src=https://media.tenor.com/o-ZLKy1KhEUAAAAd/mia-khalifa-middle-finger.gif></iframe>
+
+https://url8987.lojistic.com/ls/click?upn=9ntkps2fPaHuEtH42TlDbshO3gWE-2BoYb877Pk1jx3zua6kRdRL9iIzZnXIdfe0MnR68jbEc3qXpEmnykn-2Fwbh2aWmzhPP8wO2oNu7OP4NhIBUppyZsJ-2FiRZSdj4DFmqW7QHapISTzZPNB9-2BliLonxA-3D-3DUTRl_TYpIXGnbrS-2FzeOdolXcMNIysx5Lv55IO9GTWDSeHHkukKgONPjQF5PpOKjePB6l9Lk-2FFrHx4V10blJxtzIIq9ttxGgH9cBMzqZJg3RR6zq8EcmSTVJXwhWNDze3Q4yam-2Bp1nA3NzvtrrhWLNOjIRINZZA2D7fv0kgKQHmvmlrsjFUe2-2FuVO-2Bz0tJnKiASr4lrAzrT4LgZm1qjBMjcx1uzljdISJ9t46XTVhiyFYjBOU-3D
+
+HTTP/1.1 200 OK
+Date: Tue, 03 Jan 2023 20:02:55 GMT
+Content-Type: application/json; charset=utf-8
+Connection: close
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE, OPTIONS, HEAD
+access-control-expose-headers: 
+access-control-max-age: 7200
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"ec6585c3cb819952c5b28f5b73467519"
+Cache-Control: max-age=0, private, must-revalidate
+x-request-id: 383f6d1f-bdb4-4230-a7cb-69ee1a7984de
+x-runtime: 1.201588
+vary: Origin
+x-rack-cors: hit
+strict-transport-security: max-age=2592000;
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 783e55b089670336-AMD
+Content-Length: 1007
+
+{"user":{"id":36178,"email":"imthebountyboy@gmail.com","firstName":"sdgs","lastName":"fevilcom","phoneNumber":null,"freeTrialStatus":"ineligible","demo":false,"impersonated":false,"pardotSubmitted":false,"initialSignIn":false,"companies":[{"id":31855,"name":"lkjhgfds.io","hasActiveServices":false,"carrierConnections":[],"userHasAdminAccess":true,"userHasOwnerAccess":true,"userHasAccountAccess":true}],"refundRecoveryStatus":"off","minDate":"2022-10-03 20:02:55 UTC","unconfirmedEmail":null,"refundRecoveryEnabled":false,"hasConnections":false,"previouslyHadConnection":false,"hasNeverConnected":true,"intercomUserId":"36178","intercomUserHash":"9c22d24deaade523c04bfe95191d5203c62e9f4304c418d602a31fe3fb64292e","partnerCode":null},"meta":{"token":"eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozNjE3OCwiYXV0aGVudGljYXRpb25fdG9rZW4iOiJlMmUwMTI4OTc0ZjAxOTI4MDc5OTUzNmQ2NTQ2NzA0YSIsImV4cCI6MTY4MDU1MjE3NSwibWFuYWdlcl9pbXBlcnNvbmF0aW9uX2lkIjpudWxsLCJhbm9ueW1vdXMiOm51bGx9.mMeB4KMbA8Lk0Ip-QRza6TnPI2GZRbWeinTPuWh0v3Y"}}
+
+
+http://url5833.designware.io/ls/click?upn=A1vzC14U1zFJO5VXlApNOW7IPQMHaUFkJtSpvXQSSt9xphnJTl6hhMKIuWN-2BgK6FbbYOjk-2BB6LhHm-2FTTtBDKEP3CnmuwdDsTvwMQ6hAOLeF6zPrvnmRCL2HPAPy3QGFyZJBqGWsJ0AsD6OeGQb37e-2FHEx7vsjc95ESBhEgULSWw88Gt1UVmVBmggv96BvrpwhiCX_Q158eGow08YIqgWKwEP3wvxU5No7Q-2FUetx1eLFEal-2FyPV-2BU-2FvXiRsKCh-2FpMsIfvlR0Scn6iJY3P3gDOILLUugQ8B8zrtMP6HRE6W1zczm5XeKHIHYx40MyJGj8XQIJyESTuDTFs53pLMKEC7v9adYLId3z3JuEOiampexUeyIHIEohXCojgBdNZHYlu-2BwCFiG94rxmqDsI5umdjWOkhEl6ZQi-2BHO0pXe38MbK-2BqY-2BGE-3D
+
+
+***** cache-purge =  https://assets.vimeo.com ,  https://betaallink.ajax.nl, https://enterpriseonboarding.vimeo.com , https://hollaback-staging.vimeo.com
+***** CVE-2021-34429 https://fibt1.belastingdienst.nl
+***** Insec crossdomain - https://files.vpro.nl/crossdomain.xml
+***** open redirect -  https://jsbin.ably.com//interact.sh/%2F..
+***** Memory currption - https://www.npostart.nl/settings#
+***** openredir (unconfirmed) CVE-2018-17422 : https://www.careem.com/html/common/forward_js.jsp?FORWARD_URL=http://www.bing.com
+
+
+/.%00/WEB-INF/web.xml
+https://fibt1.belastingdienst.nl/%u002e/WEB-INF/web.xml
+
+
+https://id.npo.nl/account/confirm-registration?registrationId=e09961f9-b003-4f78-beb3-555c2f269774&at_medium=email&at_campaign=npoid_registration&at_emailtype=retention&at_creation=email_verification_new&at_send_date=20230106&at_link=1_1&at_recipient_id=0:lckvt69l:KZIWcTJ6WSSV3PL1jYhzGCKv~u~mnY10
+
+
+CVE-2021-20323 - https://meedoen.vpro.nl/auth/realms/master/clients-registrations/default
+
+
+https://mandrillapp.com/track/click/30253725/5cigm9qojwctkbzurlsrv1vxhonhb6.burpcollaborator.net?p=eyJzIjoiMHNNX3B3bXZ3aF9ZTnd4NExYcW4tN3hnOE1JIiwidiI6MSwicCI6IntcInVcIjozMDI1MzcyNSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy50aXFldHMuY29tXFxcL2VuXFxcL2FjY291bnRcXFwvZW1haWxcXFwvY29uZmlybT92ZXJpZmljYXRpb25fdG9rZW49V3lKMmFXdHBibWR5WVdObGNqRXhNVEZBWjIxaGFXd3VZMjl0SWl3eVhRLkZwcktZQS43blRWMEduR1BoYVpDNmZvajZUS2lGTEVXeWdcIixcImlkXCI6XCI0NWFjMmNhZTA1Y2Q0ODEyYWYzMzQxNDZlNjZiY2Y1NFwiLFwidXJsX2lkc1wiOltcIjE5ZDhlNjMxNGU2NmVmNDA0MTEzZjMxZTM4YTA3ZjU0M2Q0NTIwNWVcIl19In0
+
+
+{
+  "s": "0sM_pwmvwh_YNwx4LXqn-7xg8MI",
+  "v": 1,
+  "p": "{\"u\":30253725,\"v\":1,\"url\":\"https:\\/\\/www.tiqets.com\\/en\\/account\\/email\\/confirm?verification_token=WyJ2aWtpbmdyYWNlcjExMTFAZ21haWwuY29tIiwyXQ.FprKYA.7nTV0GnGPhaZC6foj6TKiFLEWyg\",\"id\":\"45ac2cae05cd4812af334146e66bcf54\",\"url_ids\":[\"19d8e6314e66ef404113f31e38a07f543d45205e\"]}"
+}
+
+
+https://support.keysight.com/KeysightdCX/s/portal-emailsuccessverifiactionpage?userid=0055a000009TyLg&validationcode=28731ec7-f639-39b4-c2cb-6dab18fd57f1&ss=
+
+
+'HTTP/2 200 OK
+Date: Mon, 09 Jan 2023 20:04:49 GMT
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: https://admin.gevme.com
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: default-src none; manifest-src 'self' gevme.com .gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io; navigate-to 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io; form-action 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io; frame-src * data: blob:; frame-ancestors 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io staging-itbcommunity.kinsta.cloud itb-community.com www.itb-community.com sestechglobal.com; object-src *; child-src 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io mozilla.github.io github.com *.github.com live-video.net *.live-video.net mux.com *.mux.com litix.io *.litix.io stream.media.gevmelive.com blob: data:; worker-src 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io mozilla.github.io github.com *.github.com live-video.net *.live-video.net mux.com *.mux.com litix.io *.litix.io stream.media.gevmelive.com blob: data:; img-src * data: blob:; media-src * data: blob:; style-src 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io blob: fonts.google.com fonts.gstatic.com fonts.googleapis.com 'unsafe-inline' 'unsafe-eval' unpkg.com cdn.jsdelivr.net cdnjs.cloudflare.com cdn.syncfusion.com live-video.net *.live-video.net mux.com *.mux.com litix.io *.litix.io stream.media.gevmelive.com freshchat.com *.freshchat.com facebook.com *.facebook.com facebook.net *.facebook.net instagram.com *.instagram.com mozilla.github.io github.com *.github.com; font-src 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io fonts.google.com fonts.gstatic.com fonts.googleapis.com unpkg.com cdn.jsdelivr.net cdnjs.cloudflare.com cdn.syncfusion.com s3.ap-southeast-1.amazonaws.com cognito-identity.ap-southeast-1.amazonaws.com firehose.ap-southeast-1.amazonaws.com cloudfront.net *.cloudfront.net static.sdkassets.chime.aws data: blob:; script-src 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io blob: 'unsafe-inline' 'unsafe-eval' unpkg.com cdn.jsdelivr.net cdnjs.cloudflare.com cdn.syncfusion.com live-video.net *.live-video.net mux.com *.mux.com litix.io *.litix.io stream.media.gevmelive.com youtube.com *.youtube.com youtube-nocookie.com *.youtube-nocookie.com googletagmanager.com www.googletagmanager.com google-analytics.com www.google-analytics.com tagmanager.google.com marketing.google.com analytics.google.com s3.ap-southeast-1.amazonaws.com cognito-identity.ap-southeast-1.amazonaws.com firehose.ap-southeast-1.amazonaws.com cloudfront.net *.cloudfront.net static.sdkassets.chime.aws vimeo.com *.vimeo.com widget.intercom.io js.intercomcdn.com intercom.io *.intercom.io freshchat.com *.freshchat.com facebook.com *.facebook.com facebook.net *.facebook.net instagram.com *.instagram.com mozilla.github.io github.com *.github.com static.zdassets.com s7.addthis.com stream-io-api.com *.stream-io-api.com; connect-src 'self' gevme.com *.gevme.com gev.me *.gev.me globalsignin.com *.globalsignin.com wylcome.io *.wylcome.io live-video.net *.live-video.net mux.com *.mux.com litix.io *.litix.io stream.media.gevmelive.com appleid.apple.com apple.com *.apple.com stream-io-api.com *.stream-io-api.com s3.ap-southeast-1.amazonaws.com cognito-identity.ap-southeast-1.amazonaws.com firehose.ap-southeast-1.amazonaws.com cloudfront.net *.cloudfront.net static.sdkassets.chime.aws unpkg.com cdn.jsdelivr.net cdnjs.cloudflare.com cdn.syncfusion.com wss://qedji8ade0.execute-api.ap-southeast-1.amazonaws.com/prod wss://am1kusozpd.execute-api.ap-southeast-1.amazonaws.com googletagmanager.com www.googletagmanager.com google-analytics.com www.google-analytics.com tagmanager.google.com marketing.google.com analytics.google.com vimeo.com *.vimeo.com freshchat.com *.freshchat.com facebook.com *.facebook.com facebook.net *.facebook.net instagram.com *.instagram.com mozilla.github.io github.com *.github.com ping.holo.sg m.addthis.com *.exitgames.com wss://.exitgames.com:* .photonindustries.io wss://.photonindustries.io:* wss://.stream-io-api.com widget.intercom.io js.intercomcdn.com intercom.io *.intercom.io *.akamaized.net akamaized.net *.ttvnw.net ttvnw.net *.noembed.com noembed.com wss://.chime.aws; upgrade-insecure-requests;
+X-Frame-Options: ALLOW-FROM https://www.gevme.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer
+Permissions-Policy: fullscreen=, camera=, microphone=, accelerometer=, autoplay=, encrypted-media=, gyroscope=, geolocation=, picture-in-picture=*
+X-Permitted-Cross-Domain-Policies: none
+Expect-Ct: max-age=31536000, enforce
+X-Dns-Prefetch-Control: off
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+Etag: W/"23-VpggjTd+1TjuNBcPpRAlWgtDbPk"
+Set-Cookie: nlbi_2653864=WRfVBMOxQHHHg78r3Z+unwAAAABXWb3M2zcQajyy1IeGfzCK; path=/; Domain=.gevme.com; Secure; SameSite=None
+Set-Cookie: visid_incap_2653864=KB99Xt4SQamwyWevlA+QkWFzvGMAAAAAQUIPAAAAAAB6sEU5ypo1Bjh90QqjuQ7i; expires=Tue, 09 Jan 2024 15:46:33 GMT; HttpOnly; path=/; Domain=.gevme.com; Secure; SameSite=None
+Set-Cookie: incap_ses_707_2653864=NBcoQCicd0mo8RRmkMXPCWFzvGMAAAAARPs0/dCTTGwUhT4iOkVoUQ==; path=/; Domain=.gevme.com; Secure; SameSite=None
+X-Iinfo: 13-501134409-501083910 pNYN RT(1673294680377 8828) q(0 0 0 -1) r(0 0) U6
+
+{"status":true,"message":"success"}'
+
+
+
+
+***** Password reset link not fking expiring o re-cap.com
+
+
+ https://r.campaigns.gynzy.com/tr/cl/x1VHkfM1qjAtUrl795S6W3Y7o9XhFBLjOsrJbZCD2jBkk2s7DVnKVV1vV5exIy2S5JuKpIVAOzn-NYZ2P_EbghqTce1NSf0fpUQEsHYBTioj5aSrmoqN8PY-5_00mQ7a3uR4Nlyfw2HiyrrxWpYs5kStDd1NTWle1MiIKnd7I4bVtcldksXvU78DIhv5QmAVdkB2jDeVbKa7iea5kmVNtGECuU6KuqH_CqBm1XqFMqeeGTOs7_hFfhCUnFyuAP8x2nVGSmL73ErNh0KwsX9Owx60K97Lbec7SfEQqdTwZgfEmySPvhxA_vrrTcFvCBQO43CppYpQwvXSj5z4A87E4hCENh9apHWpZx9ziDC9UlqFtgRd6bAbyOpCEp2UPXVSCB-2O35mZ6BS24m4-5--nAUIiHXCKstaIZbmS634D7GzmwvILOmRpBPjgI84DKPUk-R5kR6n3b7n57vJdXE3yFlHNRntT1laVOhImPVuY6BVLQ
+
+
+
+ https://platform.ledn.io/?email=vikingracer1111@gmail.com&user_name=4bd6394c-a9b9-4f34-94c6-4cab7f807470&code=382595
+ https://platform.ledn.io/?email=imthebountyboy@gmail.com&user_name=dc2f015b-62a9-4220-baba-117b1482a0d8&code=884393
+
+
+ https://platform.ledn.io/?email=vikingracer1111@gmail.com&user_name=dc2f015b-62a9-4220-baba-117b1482a0d8&code=884393
+
+
+
+
+ ***** password reset token not expiring after new toekn generation -sidefx
+ ***** Full ato with verification bypasss Creste 2 acc > replace the code with your account then for verification of sms use response manipulation -https://ledn.io/legal/responsible-disclosure-policy
+ ***** localhost.kkr.com [127.0.0.1] with 32 bytes of data: -done
+ ***** html email on promotional mail ledn.io <img src=http://tny.im/tK->
+ ***** idor localize staging project id clear 
+ ***** otp bypass narcasa -response manipulation
+
+
+
+Date: Tue, 10 Jan 2023 20:48:18 GMT
+Content-Type: application/x-amz-json-1.1
+Content-Length: 2
+Connection: close
+x-amzn-RequestId: 5cb89b71-e472-46bb-b4d2-ac32b58542be
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+
+{}
+
+
+
+ https://survey.kkr.com/yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+
+
+***** wp dos load js rechargepayments 
+***** CORS = https://optics.getyourguide.com/g/collect?v=2&tid=G-BJKL76S993&gtm=2oe190&_p=1367631538&cid=303903790.1673471948&ul=en-us&sr=1536x864&_uc=IN&_s=2&dl=https%3A%2F%2Fwww.getyourguide.com%2Fnew-york-city-l59%2Fnew-york-city-moulin-rouge-the-musical-broadway-tickets-t295245%2F%3F_pc%3D1%2C3&dr=https%3A%2F%2Fwww.getyourguide.com%2Fnew-york-city-l59%2Fnew-york-city-moulin-rouge-the-musical-broadway-tickets-t295245%2F%3F_pc%3D1%2C2&sid=1673471948&sct=1&seg=1&dt=NYC%3A%20Moulin%20Rouge!%20The%20Musical%20Broadway%20Tickets%20%7C%20GetYourGuide&uid=SCXJP819VEX444UOP3U8SDPB4QU0NZ7M&en=page_view&ep.breadcrumb=%2Fnew-york-city-l59%2Fnew-york-city-moulin-rouge-the-musical-broadway-tickets-t295245%2F&ep.cj_session_id=1673473143507.xiy585d5&ep.page_url=https%3A%2F%2Fwww.getyourguide.com%2Fnew-york-city-l59%2Fnew-york-city-moulin-rouge-the-musical-broadway-tickets-t295245%2F%3F_pc%3D1%2C2&ep.container_name=Activity&ep.tour_title=NYC%3A%20Moulin%20Rouge!%20The%20Musical%20Broadway%20Tickets&ep.tour_city=New%20York%20City&ep.location_type=city&epn.location_id=59&ep.tour_country=United%20States&ep.tour_area=New%20York%20(State)&ep.display_incrementality_group=a&ep.us_criteo=true&epn.tour_country_id=8&ep.tour_poi=Broadway%2C%20New%20York&epn.tour_city_id=59&epn.tour_area_id=1185&_et=886&richsstsse
+
+***** HTMLI on geckoboard dashboard 
+***** session issue not ex password https://www.getyourguide.com/account/profile -reported
+***** ip grabbing via image change request on app.geckoboard 
+
+
+
+
+
+
+https://www.getyourguide.com/wishlists/e6153292-e2f1-42a7-9cb3-42fdc089fa41
+https://www.getyourguide.com/wishlists/c5440119-950a-448c-94d7-e8909f8ee9ac
+
+https://www.getyourguide.com/wishlists/799282be-710f-4a1c-acd3-8691f263fb69
+
+
+ps://www.bugherd.com/sidebarv2.js //   bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=ozxhdkzvitxbr3ifod0xcq';
+
+
+
+https://click.pstmrk.it/2s/www.syncfusion.com%2Faccount%2Fverify%3Fkey%3DEdhuKDiJe72osikhos0XAyAaiQDj8Gy5zSo1HbDlvVI%253d%26hashtoken%3Df61d6947467ccd3aa5af24db320235dd%26returnurl%3DL2Rvd25sb2Fkcy93aW51aQ%3D%3D/-TbDrjYN/c4Jk/t8WDLN58oh
+
+
+<img src=x> https://evil.com {{7*7}}
+ugemvqo7nnznodwboqhvptsx2o8ew3.burpcollaborator.net
+l0mdfh8y7eje84g28h1m9kcomfs6gv.burpcollaborator.net
+
+
+AIzaSyB-jk2NY6M9XHZM1Okf-E6bZaFThpgdM3Q - view-source:https://www.sonder.com/destinations/denver/search?sleeps=1&neighborhood=all_neighborhoods&bedroom_count=0&bed_count=1&bathroom_count=1
+
+API key is  vulnerable  for Staticmap API! Here is the PoC link which can be used directly via browser:
+https://maps.googleapis.com/maps/api/staticmap?center=45%2C10&zoom=7&size=400x400&key=AIzaSyB-jk2NY6M9XHZM1Okf-E6bZaFThpgdM3Q
+
+
+
+http://click.em.zizooboats.com/ls/click?upn=o6PJH5pUlkyuXe9V96i4Aq8zNrRDFlBX2cjyT49HqvTad6iRLBzeY7Du2kA-2FE58UqVGo3-2BKHiELt1PJDciNjluvyBHx90siST3fKU3Eb7PsrMJxKllZVw-2FLJss00sCDWyBg8uzOW-2B3bDiG-2BSLQssHx7v9A3d0Fl8pbueo0AqgV0SyHjUe0AmSUB1JrBA0LhbIJuR13plC6v4wAU-2FWw03v4t-2BRT-2F8NPYBJdik-2BdG2OeFH-2F9F-2FC-2F-2FJ6A280Lj6sNWunBCy5ZjS4tJFGfyUEWvzdw-3D-3DsKQT_Q158eGow08YIqgWKwEP3wvxU5No7Q-2FUetx1eLFEal-2Fx5f4FG9hpLrPivRMYLeA7edu-2BjJwrNlxn-2FOAOvfjo7G8N5LTvzODvQ4348zE6TfAHrwuZzGpvRRMfSjf4f8uNMgE3OmXacbCPacvvmBo8onK9B5J-2FCORdLz8pG3DHVr0eF3D9uj3plea9lR-2FQlDDhnjGVe5bWPEPGADsCOP0fbaV292PlRitqURFbwzSjT3au1ez3oFj-2FTtpSPbI594Vk5U-2Bxo3jUYNUuII0SIt-2BNXh4ZvHU6fO4hqTokfD2Z13NAPfYflflyLlL66og4mV-2FtAtdVpqOr1NLV2jy7xZ0oEDnMMlOF02cQtoHsPFSUZX1ys-2B47atw6RXH5Uhl9MKlu9OKMw5SOC0dKVHOoz5Ru9LLL-2B2ox6uEJ1ddAZN5LEn68-3D
+
+
+https://auth.zizoo.com/u/email-verification?ticket=N6qJCJahrnybQnoRp1aWyHoJJIaH7s
+
+****** PRE ATO on zizoo.com  -  https://hackerone.com/reports/1074047
+****** https://engineering.sonder.com/wp-json/wp/v2/users/
+****** PRE ATO on https://www.amahahealth.com/t-p/
+
+https://admin.sonder.com/api/swagger_doc.json
+
+
+
+{https://www.nike.com/help/a/responsible-disclosure
+https://www.niagahoster.co.id/responsible-disclosure-policy
+}
+
+******* open redirection on nike.com {signup}
+Users could get redirected to malicious domain.
+
+
+k6rs2ctulgzb0ibul6b618mi0960up.burpcollaborator.net
+
+
+https://partner-portal.persequor.com/reset-password.php?token=9bcbef52-bd99-44bd-b925-b4a867323485
+
+nike.net spf
+
+
+https://id.app.driven.ca/users/confirmation?confirmation_token=8MyjbbApxJnupMfodeUY&locale=en&partner=p_Ch8kqu61g67pjJUD
+
+
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDjeNaRcIyv5jMUWWwXQTVLLvCjLs3zgpc&libra>
+
+
+
+
+
+
+
+security@vanmoof.com
+
+
+
+https://login.splunk.com/verify-email?email=vaidikpandya@thecyberboy.com&otp=744101
+
+
+
+
+
+
+https://about.appsheet.com/home/
+
+https://accounts.google.com/o/oauth2/auth/oauthchooseaccount?response_type=code&suppress_webview_warning=true&client_id=953348912797-h2fo9tmk42mnrkk0kc6gula9i8ipv3re.apps.googleusercontent.com&state=%3FFullScope%3Dyes%26UtmSource%3Ddirect%26UtmCampaign%3Ddirect%26UtmMedium%3Dnone%26UtmContent%3Dnull%26UtmTerm%3Dnull%26csrf-request-id%3D270e871d-d2e3-481a-a9de-31d515bcf545%26__csrf__%3DMtxF6XmTQDvq5vfUVfrC9LgmH7NxYyAsf52Nclsa0vK0hae4cciF_3STYgOl717hdnmUoQursogxkp8v6XJM3urjTQlZpdM3iSgItGSOwqrnPcudO6eKBrHfU7sCch8sG6ZJMjGlZQpTnHUXoy_PPQ2%26__provider__%3Dgoogle%26ru%3Dhttps%253a%252f%252fwww.appsheet.com%252fAccount%252fELCGD&include_granted_scopes=true&access_type=offline&approval_prompt=force&scope=profile%20openid%20email%20https%3A%2F%2Fspreadsheets.google.com%2Ffeeds%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&redirect_uri=https%3A%2F%2Fwww.appsheet.com%2FAccount%2FELCGD&service=lso&o2v=1&flowName=GeneralOAuthFlow
+
+
+
+
+
+https://pricee.com/api/redirect/t.php?from=gadgets360&redirect=https%3A%2F%2Fwww.flipkart.com%2Fvivo-y75-moonlight-shadow-128-gb%2Fp%2Fitm28ded5e6b6309%5D%28https%3A%2F%2Fwww.flipkart.com%2Fvivo-y75-moonlight-shadow-128-gb%2Fp%2Fitm28ded5e6b6309
+
+
+https://pricee.com/api/redirect/t.php?from=gadgets360&redirect=http://evil.com
+
+
+
+HTTP/1.1 200 
+Content-Type: application/json
+Connection: close
+Date: Thu, 02 Feb 2023 10:52:09 GMT
+Set-Cookie: AWSALB=TUh8L0m+OCVAyxHdmv7NK0IIeF5ABn5zpzgPu1siYVYGYJT0mJ962r3+jayjIoojXLlRmobwsQcKOKOiL1zBNjHO/qY6VWnsqz6whGFGKS+sxUG77usR3J8AtIK4; Expires=Thu, 09 Feb 2023 10:52:09 GMT; Path=/
+Set-Cookie: AWSALBCORS=TUh8L0m+OCVAyxHdmv7NK0IIeF5ABn5zpzgPu1siYVYGYJT0mJ962r3+jayjIoojXLlRmobwsQcKOKOiL1zBNjHO/qY6VWnsqz6whGFGKS+sxUG77usR3J8AtIK4; Expires=Thu, 09 Feb 2023 10:52:09 GMT; Path=/; SameSite=None; Secure
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Cache: Miss from cloudfront
+Via: 1.1 12d82d6b4aa77bb6c346a86b23a37b5c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MAD53-P2
+X-Amz-Cf-Id: VAu6nRQl8YI0WYtRsGyNcRudpm7ZcuYX7zA57TJhTcFN70eNxjY2EA==
+Content-Length: 548
+
+{"meta":{"program":"Registration Service","version":"v1","dateTime":"2023-02-02T10:52:09","httpStatus":200,"requestUri":"/api/v1/registration/admin/validateConfirmationCode","transactionId":"c39890c8-7c21-4f73-b984-14c9f8a0a102","executionTime":143,"status":"SUCCESS"},"payload":{"succeeded":true,"messageText":null,"errorMessageObjectList":null,"duplicateEmailMessage":null,"onBoardingRegistrationSuccess":false,"postRedirectionMfeURL":null,"userPresentInDynamoDB":true,"emailAddressPresentInMDM":false,"errorCode":null,"duplicateUserName":false}}
+
+
+
+
+

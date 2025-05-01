@@ -1,0 +1,76 @@
+Sure, here's a sample README file for the main script:
+
+```
+# recon-what.sh Script
+
+The recon-what.sh Script is a bash script that automates the process of gathering information about a target domain using various reconnaissance tools. It performs subdomain discovery, live host identification, port scanning, vulnerability scanning, and more. The script is designed to be used for security assessments, bug bounty hunting, and penetration testing purposes.
+
+## Features
+
+- Subdomain discovery using Subfinder and Amass
+- Identification of live hosts using Httprobe and Httpx
+- Extraction of URLs from the Wayback Machine using Waybackurls and Gau
+- Checking for subdomain takeover vulnerabilities using Subover
+- Finding IP addresses related to the domain using Shodan
+- Port scanning using Nmap
+- Optional vulnerability scanning using Nuclei
+- Detection of XSS, IDOR, SSRF, CRLF, backup files, and parameter pollution vulnerabilities using Waybackurls and Gf (Grep Found)
+
+## Requirements
+
+- Bash shell
+- Golang (Go) environment (required for some tools)
+- Python and Pip (required for Shodan)
+- Nmap (ensure you have Nmap installed for your specific OS)
+
+## Usage
+
+1. Clone the repository:
+
+   ```
+   git clone <repository-url>
+   cd domain-scanner-script
+   ```
+
+2. Make the main script executable:
+
+   ```
+   chmod +x recon-what.sh
+   ```
+
+3. Run the script:
+
+   ```
+   ./recon-what.sh
+   ```
+
+4. The script will prompt you to enter the target domain and execute the various scanning steps.
+
+5. The output files will be saved in a folder with the name of the target domain.
+
+## Disclaimer
+
+This script is intended for legal security assessments, penetration testing, and bug bounty hunting. Use it responsibly and only on domains you have proper authorization to assess. The author is not responsible for any illegal or unauthorized use of this script.
+
+## License
+
+This script is open-source and distributed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
+
+## Acknowledgments
+
+This script relies on the following tools, which are developed and maintained by their respective authors:
+
+- Subfinder: https://github.com/projectdiscovery/subfinder
+- Amass: https://github.com/OWASP/Amass
+- Httprobe: https://github.com/tomnomnom/httprobe
+- Httpx: https://github.com/projectdiscovery/httpx
+- Waybackurls: https://github.com/tomnomnom/waybackurls
+- Gau: https://github.com/lc/gau
+- Subover: https://github.com/Ice3man543/subover
+- Shodan CLI: https://shodan.io
+- Nmap: https://nmap.org
+- Nuclei: https://github.com/projectdiscovery/nuclei
+
+```
+
+In this README, we cover the features of the script, its requirements, usage instructions, a disclaimer, license information, and acknowledgments to give credit to the developers of the tools the script relies on. Remember to replace `<repository-url>` with the actual URL of your repository. Customize the README further as needed to provide additional details or instructions specific to your project.

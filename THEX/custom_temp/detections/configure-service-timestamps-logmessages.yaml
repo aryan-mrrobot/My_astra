@@ -1,0 +1,33 @@
+id: configure-service-timestamps-logmessages
+
+info:
+  name: Cisco Configure Service Timestamps Log Messages - Detect
+  author: pussycat0x
+  severity: info
+  description: |
+    Cisco service timestamp configuration for log messages was not implemented.
+  reference:
+    - https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/service_timestamps.htm
+  classification:
+    cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N
+    cvss-score: 0
+    cwe-id: CWE-200
+  tags: cisco,config-audit,cisco-switch,file,router
+
+file:
+  - extensions:
+      - conf
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - "service timestamps log datetime msec show-timezone localtime"
+        negative: true
+
+      - type: word
+        words:
+          - "configure terminal"
+
+# Enhanced by md on 2023/05/02
+# digest: 4a0a00473045022100e7452eed7b2d85e75724d3e9a62e49f196464dac3c7ac97e0f58e95aeb3e6c9002205542b25308e388b9416cd69807356efb7e6dd237b649511d38324980c426c3c4:922c64590222798bb761d5b6d8e72950

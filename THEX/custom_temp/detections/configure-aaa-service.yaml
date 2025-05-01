@@ -1,0 +1,33 @@
+id: configure-aaa-service
+
+info:
+  name: Cisco AAA Service Configuration - Detect
+  author: pussycat0x
+  severity: info
+  description: |
+    Cisco authentication, authorization and accounting service configuration was detected.
+  reference:
+    - https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/security/a1/sec-a1-cr-book/sec-cr-a2.html#GUID-E05C2E00-C01E-4053-9D12-EC37C7E8EEC5
+  classification:
+    cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N
+    cvss-score: 0
+    cwe-id: CWE-200
+  tags: cisco,config-audit,cisco-switch,file,router
+
+file:
+  - extensions:
+      - conf
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - "aaa new-model"
+        negative: true
+
+      - type: word
+        words:
+          - "configure terminal"
+
+# Enhanced by md on 2023/05/02
+# digest: 4a0a0047304502203740bf9627bfcf3a5c391bc4f46b5e56478ee42cb4c16c75bb58da2ae4b09cf50221009aee74ec6f76f1a45c959deff776be4e87ffbe20aeb3877af07fd32780939c26:922c64590222798bb761d5b6d8e72950

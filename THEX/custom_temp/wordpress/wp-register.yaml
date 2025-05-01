@@ -1,0 +1,33 @@
+id: wp-register
+
+info:
+  name: WordPress Exposed registration
+  author: princechaddha
+  severity: critical
+  description: Wordpress registration
+  classification:
+    cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:H
+    cvss-score: 9.4
+    cwe-id: CWE-284
+  reference:
+    - https://smaranchand.com.np/2020/04/misconfigured-wordpress-takeover-to-remote-code-execution/
+  tags: panel,wordpress
+
+requests:
+  - method: GET
+    path:
+      - "{{BaseURL}}/wp-login.php?action=register"
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - "WordPress"
+          - "Register For This Site"
+        condition: and
+
+      - type: status
+        status:
+          - 200
+
+# Enhanced by cs 01/26/2023

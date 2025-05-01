@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+ghostdriver.log
+/logs/*
+/screenshots/*
+
+.vscode
+/myenv
+/results
+target.txt
